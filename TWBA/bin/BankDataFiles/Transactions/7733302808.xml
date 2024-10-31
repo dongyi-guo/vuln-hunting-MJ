@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Transaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DestinationAccountNumber>1109025639</DestinationAccountNumber>
+  <SourceAccountNumber>1188605145</SourceAccountNumber>
+  <TransactionDescription>Transfer on:18/10/2024 7:54:16 PM- Source Account Number:1188605145 - Destination Account Number:1109025639 , Total Amount:20</TransactionDescription>
+  <TransactionType>BankTransfer</TransactionType>
+  <TransactionDate>2024-10-18T19:54:16.8169635+11:00</TransactionDate>
+  <TransactionAmount>20</TransactionAmount>
+  <TransactionId>7733302808</TransactionId>
+</Transaction>

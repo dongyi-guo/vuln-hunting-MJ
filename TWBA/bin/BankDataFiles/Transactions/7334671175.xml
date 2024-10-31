@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Transaction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DestinationAccountNumber>4786047571</DestinationAccountNumber>
+  <TransactionDescription>Withdrawl on:18/10/2024 7:46:47 PM- Destination Account Number4786047571, Total Amount: 12</TransactionDescription>
+  <TransactionType>Withdrawl</TransactionType>
+  <TransactionDate>2024-10-18T19:46:47.7807211+11:00</TransactionDate>
+  <TransactionAmount>12</TransactionAmount>
+  <TransactionId>7334671175</TransactionId>
+</Transaction>

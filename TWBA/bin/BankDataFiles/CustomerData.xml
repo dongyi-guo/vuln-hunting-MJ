@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <PhoneNumber>098-765-4321</PhoneNumber>
+    <Address>-13 coldest Ave, Eastern Shore, Antarctica</Address>
+    <GovId>123-456-7890</GovId>
+    <Name>June</Name>
+    <LastName>Coldplay</LastName>
+    <Email>cold.june@coldmail.com</Email>
+    <Password>catchMeOnaSunnyDay</Password>
+    <CustomerId>0940329527</CustomerId>
+    <DateOfJoining>2024-10-11T15:19:49.5597086+11:00</DateOfJoining>
+  </Customer>
+  <Customer>
+    <PhoneNumber>098-765-4321</PhoneNumber>
+    <Address>-13 coldest Ave, Eastern Shore, Antarctica</Address>
+    <GovId>116-753-0261</GovId>
+    <Name>James</Name>
+    <LastName>Coldplay</LastName>
+    <Email>cold.james@coldmail.com</Email>
+    <Password>catchMeOnaFunnyDay</Password>
+    <CustomerId>0940329527</CustomerId>
+    <DateOfJoining>2024-10-11T15:19:49.5617034+11:00</DateOfJoining>
+  </Customer>
+  <Customer>
+    <PhoneNumber>098-765-4321</PhoneNumber>
+    <Address>-13 coldest Ave, Eastern Shore, Antarctica</Address>
+    <GovId>321-654-0594</GovId>
+    <Name>Jude</Name>
+    <LastName>Coldplay</LastName>
+    <Email>cold.jude@coldmail.com</Email>
+    <Password>catchMeOnaRainyDay</Password>
+    <CustomerId>0940329527</CustomerId>
+    <DateOfJoining>2024-10-11T15:19:49.5617034+11:00</DateOfJoining>
+  </Customer>
+  <Customer>
+    <PhoneNumber>098-765-4321</PhoneNumber>
+    <Address>-13 coldest Ave, Eastern Shore, Antarctica</Address>
+    <GovId>611-345-1731</GovId>
+    <Name>Jeremy</Name>
+    <LastName>Coldplay</LastName>
+    <Email>cold.jeremy@coldmail.com</Email>
+    <Password>catchMeOnaScaryDay</Password>
+    <CustomerId>0940329527</CustomerId>
+    <DateOfJoining>2024-10-11T15:19:49.5617034+11:00</DateOfJoining>
+  </Customer>
+  <Customer>
+    <PhoneNumber>111-342-0989</PhoneNumber>
+    <Address>-27 Frozen Ave, Glacier Top, Antarctica</Address>
+    <GovId>111-476-5690</GovId>
+    <Name>Jade</Name>
+    <LastName>Iceberg</LastName>
+    <Email>icy.jade@coldmail.com</Email>
+    <Password>catchMeOnaGlacier</Password>
+    <CustomerId>0940329527</CustomerId>
+    <DateOfJoining>2024-10-11T15:19:49.5617034+11:00</DateOfJoining>
+  </Customer>
+  <Customer>
+    <PhoneNumber>451-121-7823</PhoneNumber>
+    <Address>-27 Frozen Ave, Glacier Top, Antarctica</Address>
+    <GovId>116-753-0261</GovId>
+    <Name>Julie</Name>
+    <LastName>Iceberg</LastName>
+    <Email>cold.james@coldmail.com</Email>
+    <Password>iAmUnCatchable</Password>
+    <CustomerId>0940329527</CustomerId>
+    <DateOfJoining>2024-10-11T15:19:49.5617034+11:00</DateOfJoining>
+  </Customer>
+  <Customer>
+    <PhoneNumber>101-873-7119</PhoneNumber>
+    <Address>-27 Frozen Ave, Glacier Top, Antarctica</Address>
+    <GovId>321-654-0594</GovId>
+    <Name>Jermiah</Name>
+    <LastName>Iceberg</LastName>
+    <Email>cold.jude@coldmail.com</Email>
+    <Password>catchMeOnaSlipperyDay</Password>
+    <CustomerId>0940329527</CustomerId>
+    <DateOfJoining>2024-10-11T15:19:49.5617034+11:00</DateOfJoining>
+  </Customer>
+  <Customer>
+    <PhoneNumber>923-423-1174</PhoneNumber>
+    <Address>-27 Frozen Ave, Glacier Top, Antarctica</Address>
+    <GovId>611-345-1731</GovId>
+    <Name>Joseph</Name>
+    <LastName>Iceberg</LastName>
+    <Email>cold.jeremy@coldmail.com</Email>
+    <Password>catchMeOnaIceyDay</Password>
+    <CustomerId>0940329527</CustomerId>
+    <DateOfJoining>2024-10-11T15:19:49.5617034+11:00</DateOfJoining>
+  </Customer>
+</ArrayOfCustomer>
